@@ -1,3 +1,4 @@
+juhu
 Hello World
+<<<<<<< HEAD
 ez a Dev ág
-
